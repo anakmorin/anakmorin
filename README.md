@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @anakmorin
+- 👀 I’m interested in programming and working in similar aspects of technology.  
+- 🌱 I’m currently in my 6th term of CT.
